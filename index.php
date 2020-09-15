@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Broadcast 10.15.92.142</title>
+    <title>Broadcast</title>
     
 </head>
 <style>
@@ -112,7 +112,7 @@
     ?>
     <div id="content">
         <!--isi dari $lokasi ada di file koneksi.php, cek jika berbeda.-->
-        <h1>Broadcast <?php echo $lokasi;?></h1>
+        <h1>Broadcast</h1>
         <a class="button" href="log.php" style="margin-top:0px; font-size: 15px; width: 96px;">&raquo; Log</a>
         <a class="button" href="upload_form.php" style="margin-top:0px; font-size: 15px; width: auto;">Upload File Broadcast</a>
         <!--Menampilkan Loader (Gambar Gif sebagai indikator audio)-->
